@@ -38,7 +38,7 @@
 
 <h1 align="center">Soft skills:</h1>
 <div align="center">
-<h2>Administrador de negócios na Setor Invest | Profissional financeiro | Java | SQL | Python</h2>
+<h2>Administrador de negócios | Profissional financeiro | Java | SQL | Python</h2>
 
 </div>
 
